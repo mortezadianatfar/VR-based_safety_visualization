@@ -1,6 +1,6 @@
-# VR-based Saftey Training Visualization in Human-Robot Collaboration - Templates 
+# VR-based Saftey Training Visualization in Human-Robot Collaboration - Template
 
-**VR-based Saftey Training Visualization in Human-Robot Collaboration - Templates** is a comprehensive tool for creating VR safety training environments tailored to human-robot collaboration scenarios. The templates are designed to help users quickly and efficiently develop training content. They include pre-built components for creating VR environments and avatars, interactive modules, visualization tools, and scripts. Built upon established robotics and safety standards, this tool has been rigorously validated through academic studies and experimental evaluations.
+**VR-based Saftey Training Visualization in Human-Robot Collaboration - Template** is a comprehensive tool for creating VR safety training environments tailored to human-robot collaboration scenarios. The templates are designed to help users quickly and efficiently develop training content. They include pre-built components for creating VR environments and avatars, interactive modules, visualization tools, and scripts. Built upon established robotics and safety standards, this tool has been rigorously validated through academic studies and experimental evaluations.
 
 ## License
 
