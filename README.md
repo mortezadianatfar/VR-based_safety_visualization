@@ -40,3 +40,5 @@ Dianatfar, M., Järvenpää, E., Siltala, N. and Lanz, M., 2025. Template concep
 
 By including this citation, you help recognize the work and ensure its academic impact. For more details, please visit [(https://doi.org/10.1016/j.rcim.2025.102973].
 
+For checking out the previous implemented project in Laboratories of Tampere University, you can watch this video : https://youtu.be/cQr-LMDV5ew
+
