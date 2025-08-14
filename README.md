@@ -36,7 +36,7 @@ For the full legal text, please see the [LICENSE](https://creativecommons.org/li
 
 If you share this work, please inform readers where to find the work. Additionally, please cite the following publication, which provides a comprehensive description of the project:
 
-TBA
+Dianatfar, M., Järvenpää, E., Siltala, N. and Lanz, M., 2025. Template concept for VR environments: A case study in VR-based safety training for human–robot collaboration. Robotics and Computer-Integrated Manufacturing, 94, p.102973.
 
-By including this citation, you help recognize the work and ensure its academic impact. For more details, please visit [link to project or publication].
+By including this citation, you help recognize the work and ensure its academic impact. For more details, please visit [(https://doi.org/10.1016/j.rcim.2025.102973].
 
